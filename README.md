@@ -1,4 +1,4 @@
-#DailyDigest
+# DailyDigest
 
 It is a React app that keeps you updated with news across categories like Business, Entertainment, General, Health, Science, Sports, and Technology. It’s user-friendly and helps you stay informed on the latest happenings effortlessly. 
 
